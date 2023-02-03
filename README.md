@@ -14,5 +14,7 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
+    ## Screenshots
+![Simulator Screen Shot - iPhone 12 - 2023-02-04 at 02 18 05](https://user-images.githubusercontent.com/123213674/216722426-b20b33d9-d47a-4056-9bc3-85f4c13dc454.png)
+
 
